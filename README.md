@@ -6,7 +6,7 @@ Olá! 👋 Eu sou Guilherme Amos, um entusiasta da tecnologia em transição de 
 
 ## Experiência Profissional
 
-Nos últimos 6 meses, venho atuando como Analista de Suporte, onde tenho tido a oportunidade de adquirir valiosas habilidades técnicas e práticas na resolução de problemas e suporte a usuários, especialmente trabalhando com o banco de dados PostgreSQL. Durante esse período, também tenho interagido com outras equipes, incluindo Desenvolvimento, Testes e demais áreas. Essa experiência não apenas ampliou meu conhecimento em suporte técnico, mas também tem sido fundamental para a minha transição de carreira para a área de desenvolvimento. 🛠️💻
+Trabalho como Analista de Suporte, onde tenho tido a oportunidade de adquirir valiosas habilidades técnicas e práticas na resolução de problemas e suporte a usuários, especialmente trabalhando com o banco de dados PostgreSQL. Durante esse período, também tenho interagido com outras equipes, incluindo Desenvolvimento, Testes e demais áreas. Essa experiência não apenas ampliou meu conhecimento em suporte técnico, mas também tem sido fundamental para a minha transição de carreira para a área de desenvolvimento. 🛠️💻
 
 ## Educação
 
