@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! 👋 Eu sou Guilherme Amos, um entusiasta da tecnologia em transição de carreira, atualmente com 34 anos e residindo em Marília, São Paulo. Estou empolgado em compartilhar um pouco sobre minha jornada até agora.
+Olá! 👋 Eu sou Guilherme Amos, um entusiasta da tecnologia em transição de carreira, atualmente com 35 anos e residindo em Marília, São Paulo. Estou empolgado em compartilhar um pouco sobre minha jornada até agora.
 
 ## Experiência Profissional
 
